@@ -116,7 +116,7 @@
                 <div class ="caption">
                     <h4>Bumblebee</h4>
                     <p>
-                        <a href="bumblebee.php" class="btn btn-danger">Chi tiết</a> 
+                        <a href="phimbumblebee.php" class="btn btn-danger">Chi tiết</a> 
                         <a href="#" class="btn btn-danger">Đặt vé</a>
                     </p>
                 </div>
