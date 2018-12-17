@@ -76,7 +76,7 @@
                     <div class ="caption">
                         <h4>Ralph breaks the internet</h4>
                         <p>
-                            <a href="#" class="btn btn-danger">Chi tiết</a> 
+                            <a href="phimRalph.php" class="btn btn-danger">Chi tiết</a> 
                             <a href="#" class="btn btn-danger">Đặt vé</a>
                         </p>
                     </div>
@@ -87,7 +87,7 @@
                     <div class ="caption">
                         <h4>Cỗ máy tử thần</h4>
                         <p>
-                            <a href="#" class="btn btn-danger">Chi tiết</a> 
+                            <a href="phimcomaytuthan.php" class="btn btn-danger">Chi tiết</a> 
                             <a href="#" class="btn btn-danger">Đặt vé</a>
                         </p>
                     </div>
@@ -98,11 +98,11 @@
         <div class="row">
             
             <div class = "col-md-4">
-               <center> <img src= "./img/hunter killer.jpg" class="img-thumbnail" alt="">
+               <center> <img src= "./img/hunter killer.jpg"  width="250" height="200" class="img-thumbnail" alt="">
                     <div class ="caption">
                         <h4>Hunter killer</h4>
                         <p>
-                            <a href="#" class="btn btn-danger">Chi tiết</a> 
+                            <a href="phimmatvu.php" class="btn btn-danger">Chi tiết</a> 
                             <a href="#" class="btn btn-danger">Đặt vé</a>
                         </p>
                     </div>
@@ -110,11 +110,11 @@
             </div>
       
             <div class = "col-md-4">
-               <center> <img src= "./img/toiac.jpg" class="img-thumbnail" alt="">
+               <center> <img src= "./img/gaigialamchieu.jpg" width="250" height="200" class="img-thumbnail" alt="">
                     <div class ="caption">
-                        <h4>Tội ác</h4>
+                        <h4>Gái già lắm chiêu</h4>
                         <p>
-                            <a href="#" class="btn btn-danger">Chi tiết</a> 
+                            <a href="phimgaigia.php" class="btn btn-danger">Chi tiết</a> 
                             <a href="#" class="btn btn-danger">Đặt vé</a>
                         </p>
                     </div>
@@ -123,11 +123,11 @@
         
             <div class = "col-md-4">
             
-                <center><img src= "./img/fat-buddies.jpg" class="img-thumbnail" alt="">
+                <center><img src= "./img/honpapa.jpg" width="250" height="200" class="img-thumbnail" alt="">
                     <div class ="caption">
-                        <h4>Fat-buddies</h4>
+                        <h4>Hồn papa, da con gái</h4>
                         <p>
-                            <a href="#" class="btn btn-danger">Chi tiết</a> 
+                            <a href="phimhonpapa.php" class="btn btn-danger">Chi tiết</a> 
                             <a href="#" class="btn btn-danger">Đặt vé</a>
                         </p>
                     </div>
